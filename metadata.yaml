@@ -1,11 +1,16 @@
 _repo: For-the-Love-of-Lady-Margaret-A-Romance-of-the-Lost-Colony_58690
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58690-h/images/cover.jpg
 creator:
   author:
     agent_name: Wilson, William Thomas
     gutenberg_agent_id: '50102'
     url: http://www.gutenberg.org/2009/agents/50102
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58690#For-the-Love-of-Lady-Margaret-A-Romance-of-the-Lost-Colony
 gutenberg_issued: '2019-01-13'
 gutenberg_type: Text
 identifiers:
